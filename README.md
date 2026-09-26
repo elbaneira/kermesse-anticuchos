@@ -17,6 +17,14 @@ Aplicación web móvil desarrollada en Django para la gestión de ventas, contro
 
 ## 📦 Instalación y Configuración Local
 
+
+## 🚀 Enlaces Directos del Proyecto en Producción
+
+* **Página Principal (Inicio):** [https://kermesse-anticuchos-1.onrender.com]
+* **Módulo de Caja:** [https://kermesse-anticuchos-1.onrender.com/caja/]
+* **Registro e Cierre de Ventas:** [[https://concana-django.onrender.com/cierre/]
+
+
 1. Clonar el repositorio:
    ```bash
    git clone [https://github.com/elbaneira/kermesse-anticuchos.git](https://github.com/elbaneira/kermesse-anticuchos.git)
