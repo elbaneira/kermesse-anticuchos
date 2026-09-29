@@ -21,7 +21,7 @@ Aplicación web móvil desarrollada en Django para la gestión de ventas, contro
 ## 🚀 Enlaces Directos del Proyecto en Producción
 
 * **Página Principal (Inicio):** [https://kermesse-anticuchos-1.onrender.com]
-* **Módulo de Caja:** [https://kermesse-anticuchos-1.onrender.com/caja/]
+* **Módulo de Caja:** [[https://kermesse-anticuchos-1.onrender.com/caja/]
 * **Registro e Cierre de Ventas:** [https://kermesse-anticuchos-1.onrender.com/cierre]
 
 
