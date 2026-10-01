@@ -1,6 +1,6 @@
 # 🥩 Sistema de Gestión de Ventas - Kermesse Anticuchos
 
-Aplicación web móvil desarrollada en Django para la gestión de ventas, control de flujo de caja e inventario en tiempo real durante la Kermesse escolar. Proyecto coordinado para los equipos de 2°E, 2°F y 2°D.
+Aplicación web móvil desarrollada en Django para la gestión de ventas, control de flujo de caja e inventario en tiempo real durante la Kermesse escolar. Proyecto coordinado para los equipos de cursos.
 
 ## 🚀 Características Principales
 
